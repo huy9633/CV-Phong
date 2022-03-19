@@ -1,0 +1,66 @@
+body{
+
+  color: aliceblue;
+  width: 100%;
+  height: 100%;
+    background-image: url(https://img3.thuthuatphanmem.vn/uploads/2019/10/10/background-3d-dong_032845717.gif);
+
+}
+.left {
+    border-style: dashed;
+    border-color: orangered;
+    width: 50%;
+ 
+}
+.right{
+    width: 50%;
+    border-style: dashed;
+    border-color: orangered;
+}
+.body1{
+    display: flex;
+    flex-direction: row;
+}
+#td{
+    width: 50%;
+     background-color: rgb(255, 153, 0);
+}
+
+#m2{
+    width: 50%;
+     background-color: rgb(255, 153, 0);
+}
+
+#m3{
+    width: 30%;
+     background-color: rgb(255, 153, 0);
+}
+#m4{
+    width: 100%;
+     background-color: rgb(255, 153, 0);
+}
+#m5{
+    width: 30%;
+     background-color: rgb(255, 153, 0);
+}
+#m6{
+    width: 30%;
+     background-color: rgb(255, 153, 0);
+}
+#m7{
+    width: 30%;
+     background-color: rgb(255, 153, 0);
+}
+#m8{
+    width: 70%;
+     background-color: rgb(255, 153, 0);
+}
+#m9{
+    width: 30%;
+     background-color: rgb(255, 153, 0);
+}
+
+
+
+
+
